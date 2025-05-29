@@ -1,0 +1,35 @@
+img {
+    width: 380px;
+    border: 3px solid black;
+}
+body {
+    margin: 15px 60px;
+    text-align: center;
+}
+h1 {
+    color: #121212;
+}
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    padding: 8px 18px;
+    margin-top: 5px;
+    border: 3px solid black;
+    font-size: 15px;
+}
+.btn-em {
+    margin-top: 30px;
+    margin-bottom: 8px;
+    background-color: white;
+}
+a {
+    border-bottom: 2px solid black;
+}
+.btn-join {
+    color: white;
+    font-weight: 800;
+    background-color: #121212;
+    margin-bottom: 25px;
+}
